@@ -13,5 +13,6 @@ namespace FirstWcfService {
 
         [OperationContract]
         string SayMyName();
+        string SayMyEmail();
     }
 }

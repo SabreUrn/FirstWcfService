@@ -13,5 +13,9 @@ namespace FirstWcfService {
         public string SayMyName() {
             return "heisenberg";
         }
+
+        public string SayMyEmail() {
+            return "walter.white1855@gmail.fuck";
+        }
     }
 }
